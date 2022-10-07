@@ -17,7 +17,9 @@
   ## [Installation](#table-of-contents)
   To install this project either download the code from the repository or clone the repository into the directory of your choice.
   ## [Usage](#table-of-contents)
-  Once the project is installed, open your command line and run "node index.js". You should then be presented with a series of prompts and upon completion of those prompts you will be supplied with a ready to use README to copy into your project.
+  Once the project is installed, open your command line and run "node index.js". You should then be presented with a series of prompts and upon completion of those prompts you will be supplied with a ready to use README to copy into your project. To view a tutorial video on how to use this project click the link below!
+  
+  https://drive.google.com/file/d/1l-zO0L55Glu70OudGnD36cmuVuj93mhX/view
   
   For more information on how to add screenshots for examples, visit the following website:
   
