@@ -35,6 +35,16 @@ function renderLicenseSection(license) {
     }
 }
 
+function renderLicenseTOC(license) {
+    if (license !== 'no license') {
+        return `
+        * [License](#license)
+        `;
+        } else {
+        return ' ';
+    }
+}
+
 function renderContributingSection(confirmContributers, data) {
     if (!confirmContributers) {
         return 'I will not be accepting contributions to this application at this time.';
